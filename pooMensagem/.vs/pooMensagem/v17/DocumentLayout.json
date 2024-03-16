@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\pooMensagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD274BA-7C89-45CD-8051-C2CACE2876A0}|pooMensagem\\pooMensagem.csproj|c:\\dev\\poomensagem\\poomensagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD274BA-7C89-45CD-8051-C2CACE2876A0}|pooMensagem\\pooMensagem.csproj|solutionrelative:poomensagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\pooMensagem\\pooMensagem\\Program.cs",
+              "RelativeDocumentMoniker": "pooMensagem\\Program.cs",
+              "ToolTip": "C:\\dev\\pooMensagem\\pooMensagem\\Program.cs",
+              "RelativeToolTip": "pooMensagem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:13:08.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

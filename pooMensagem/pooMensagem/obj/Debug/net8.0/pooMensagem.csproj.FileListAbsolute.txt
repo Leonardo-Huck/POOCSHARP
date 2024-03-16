@@ -1,0 +1,14 @@
+C:\dev\pooMensagem\pooMensagem\bin\Debug\net8.0\pooMensagem.exe
+C:\dev\pooMensagem\pooMensagem\bin\Debug\net8.0\pooMensagem.deps.json
+C:\dev\pooMensagem\pooMensagem\bin\Debug\net8.0\pooMensagem.runtimeconfig.json
+C:\dev\pooMensagem\pooMensagem\bin\Debug\net8.0\pooMensagem.dll
+C:\dev\pooMensagem\pooMensagem\bin\Debug\net8.0\pooMensagem.pdb
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.AssemblyInfoInputs.cache
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.AssemblyInfo.cs
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.csproj.CoreCompileInputs.cache
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.dll
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\refint\pooMensagem.dll
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.pdb
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\pooMensagem.genruntimeconfig.cache
+C:\dev\pooMensagem\pooMensagem\obj\Debug\net8.0\ref\pooMensagem.dll
