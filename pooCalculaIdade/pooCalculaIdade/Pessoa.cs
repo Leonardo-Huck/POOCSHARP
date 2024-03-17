@@ -8,6 +8,12 @@ namespace pooCalculaIdade
 {
     public class Pessoa
     {
+		public Pessoa(string nomePessoa, int anoNascimentoPessoa )
+		{
+			this.Nome = nomePessoa;
+			this.AnoNascimento = anoNascimentoPessoa;
+			this.CalcularIdade();
+		}
 		private int anoNascimento;
 
 		public int AnoNascimento

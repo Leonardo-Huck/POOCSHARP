@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooCalculaIdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5bf1c1c5f2a81c475e151467980c9c3d6204549")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooCalculaIdade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooCalculaIdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

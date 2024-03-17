@@ -2,11 +2,12 @@
 
 Console.WriteLine("Programa para Calcular a idade");
 
-Pessoa pessoa = new Pessoa();
+Console.Write("Digite o seu nome: ");
+string nome = Console.ReadLine();
 
-Console.WriteLine("Digite o seu nome: ");
-pessoa.Nome = Console.ReadLine();
+Console.Write("Digite o ano de nascimento: ");
+int anoNascimento = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Digite o ano de nascimento: ");
-pessoa.AnoNascimento = int.Parse(Console.ReadLine());
+Pessoa pessoa = new Pessoa(nome, anoNascimento);
+Console.WriteLine();
 pessoa.ExibirDados();
