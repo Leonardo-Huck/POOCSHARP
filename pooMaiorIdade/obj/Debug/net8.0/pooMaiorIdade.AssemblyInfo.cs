@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooMaiorIdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ac9b1b868454c89c9dff4ccd7034a6b6db4290")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+807899e9ddf62c24c1485b36f342e7e2b6e86803")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooMaiorIdade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooMaiorIdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

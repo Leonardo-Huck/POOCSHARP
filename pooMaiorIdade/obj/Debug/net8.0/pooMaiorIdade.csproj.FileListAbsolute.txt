@@ -1,0 +1,15 @@
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.AssemblyInfoInputs.cache
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.AssemblyInfo.cs
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.sourcelink.json
+C:\dev\pooCSHARP\pooMaiorIdade\bin\Debug\net8.0\pooMaiorIdade.exe
+C:\dev\pooCSHARP\pooMaiorIdade\bin\Debug\net8.0\pooMaiorIdade.deps.json
+C:\dev\pooCSHARP\pooMaiorIdade\bin\Debug\net8.0\pooMaiorIdade.runtimeconfig.json
+C:\dev\pooCSHARP\pooMaiorIdade\bin\Debug\net8.0\pooMaiorIdade.dll
+C:\dev\pooCSHARP\pooMaiorIdade\bin\Debug\net8.0\pooMaiorIdade.pdb
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.dll
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\refint\pooMaiorIdade.dll
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.pdb
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\pooMaiorIdade.genruntimeconfig.cache
+C:\dev\pooCSHARP\pooMaiorIdade\obj\Debug\net8.0\ref\pooMaiorIdade.dll
