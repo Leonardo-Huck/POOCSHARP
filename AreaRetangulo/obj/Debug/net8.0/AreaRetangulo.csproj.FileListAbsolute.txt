@@ -1,0 +1,15 @@
+C:\dev\pooCSHARP\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.exe
+C:\dev\pooCSHARP\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.deps.json
+C:\dev\pooCSHARP\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.runtimeconfig.json
+C:\dev\pooCSHARP\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.dll
+C:\dev\pooCSHARP\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.pdb
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.AssemblyInfo.cs
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.sourcelink.json
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.dll
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\refint\AreaRetangulo.dll
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.pdb
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.genruntimeconfig.cache
+C:\dev\pooCSHARP\AreaRetangulo\obj\Debug\net8.0\ref\AreaRetangulo.dll
